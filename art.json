@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Mona Lisa",
+      "image": "/img/Mona Lisa img.png",
+      "snippet": "The Mona Lisa is a half-length portrait painting by the Italian Renaissance artist Leonardo da Vinci."
+    },
+    {
+      "id": 2,
+      "name": "Girl with a pearl earring",
+      "image": "/img/Girl with a pearl earring img.png",
+      "snippet": "Girl with a Pearl Earring is an oil painting by Dutch Golden Age painter Johannes Vermeer."
+    },
+    {
+      "id": 3,
+      "name": "The Starry Night",
+      "image": "/img/The Starry Night img.png",
+      "snippet": "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh."
+    },
+    {
+      "id": 4,
+      "name": "The Kiss",
+      "image": "/img/The Kiss img.png",
+      "snippet": "The Kiss is an oil painting, with added silver and gold leaf, by the Austrian Symbolist painter Gustav Klimt."
+    },
+    {
+      "id": 5,
+      "name": "Mona Lisa",
+      "image": "/img/Mona Lisa img.png",
+      "snippet": "The Mona Lisa is a half-length portrait painting by the Italian Renaissance artist Leonardo da Vinci."
+    },
+    {
+      "id": 6,
+      "name": "Girl with a pearl earring",
+      "image": "/img/Girl with a pearl earring img.png",
+      "snippet": "Girl with a Pearl Earring is an oil painting by Dutch Golden Age painter Johannes Vermeer."
+    },
+    {
+      "id": 7,
+      "name": "The Starry Night",
+      "image": "/img/The Starry Night img.png",
+      "snippet": "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh."
+    },
+    {
+      "id": 8,
+      "name": "The Kiss",
+      "image": "/img/The Kiss img.png",
+      "snippet": "The Kiss is an oil painting, with added silver and gold leaf, by the Austrian Symbolist painter Gustav Klimt."
+    }
+  ]
+  
