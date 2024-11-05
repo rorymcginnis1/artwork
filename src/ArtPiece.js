@@ -18,7 +18,7 @@ function ArtPiece({ artworks }) {
     <div className="art-piece-detail">
       <h2>{art.name}</h2>
       <img src={art.image} alt={art.name} />
-      <p>{art.snippet}</p>
+      <p style={{ whiteSpace: 'pre-line' }}>{art.snippet}</p>
     </div>
   );
 }

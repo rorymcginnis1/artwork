@@ -1,51 +1,494 @@
 [
     {
       "id": 1,
-      "name": "Mona Lisa",
-      "image": "/img/Mona Lisa img.png",
-      "snippet": "The Mona Lisa is a half-length portrait painting by the Italian Renaissance artist Leonardo da Vinci."
+      "name": "Amber Star",
+      "image": "/img/flowers/Amber Star.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
     },
     {
       "id": 2,
-      "name": "Girl with a pearl earring",
-      "image": "/img/Girl with a pearl earring img.png",
-      "snippet": "Girl with a Pearl Earring is an oil painting by Dutch Golden Age painter Johannes Vermeer."
+      "name": "Appletini",
+      "image": "/img/flowers/Appletini.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
     },
     {
       "id": 3,
-      "name": "The Starry Night",
-      "image": "/img/The Starry Night img.png",
-      "snippet": "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh."
+      "name": "Aquatini",
+      "image": "/img/flowers/Aquatini.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
     },
     {
       "id": 4,
-      "name": "The Kiss",
-      "image": "/img/The Kiss img.png",
-      "snippet": "The Kiss is an oil painting, with added silver and gold leaf, by the Austrian Symbolist painter Gustav Klimt."
+      "name": "Avocado Sushi",
+      "image": "/img/flowers/Avocado Sushi.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
     },
     {
       "id": 5,
-      "name": "Mona Lisa",
-      "image": "/img/Mona Lisa img.png",
-      "snippet": "The Mona Lisa is a half-length portrait painting by the Italian Renaissance artist Leonardo da Vinci."
+      "name": "Azuremendi",
+      "image": "/img/flowers/Azuremendi.JPEG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
     },
     {
       "id": 6,
-      "name": "Girl with a pearl earring",
-      "image": "/img/Girl with a pearl earring img.png",
-      "snippet": "Girl with a Pearl Earring is an oil painting by Dutch Golden Age painter Johannes Vermeer."
+      "name": "Big Bang",
+      "image": "/img/flowers/Big Bang.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
     },
     {
       "id": 7,
-      "name": "The Starry Night",
-      "image": "/img/The Starry Night img.png",
-      "snippet": "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh."
+      "name": "Blue angel",
+      "image": "/img/flowers/Blue Angel.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
     },
     {
       "id": 8,
-      "name": "The Kiss",
-      "image": "/img/The Kiss img.png",
-      "snippet": "The Kiss is an oil painting, with added silver and gold leaf, by the Austrian Symbolist painter Gustav Klimt."
+      "name": "Carnivore Cosmos",
+      "image": "/img/flowers/Carnivore Cosmos.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 9,
+      "name": "Contemplation",
+      "image": "/img/flowers/Contemplation.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 10,
+      "name": "Dessert",
+      "image": "/img/flowers/Dessert.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 11,
+      "name": "Fireworks",
+      "image": "/img/flowers/Fireworks.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 12,
+      "name": "Fortissimo",
+      "image": "/img/flowers/Fortissimo.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 13,
+      "name": "Goth Girl",
+      "image": "/img/flowers/Goth Girl.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 14,
+      "name": "Icy Blue",
+      "image": "/img/flowers/Icy Blue.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 15,
+      "name": "Kauai Moae",
+      "image": "/img/flowers/Kauai Moae.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 16,
+      "name": "Mambo Loco",
+      "image": "/img/flowers/Mambo Loco.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 17,
+      "name": "Maui Shiner",
+      "image": "/img/flowers/Maui Shiner.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 18,
+      "name": "Poinsettia",
+      "image": "/img/flowers/Poinsettia.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 19,
+      "name": "Pop Culture",
+      "image": "/img/flowers/Pop Culture.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 20,
+      "name": "Purple Rain",
+      "image": "/img/flowers/Purple Rain.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 21,
+      "name": "Rojo Mojo",
+      "image": "/img/flowers/Rojo Mojo.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 22,
+      "name": "Here Comes the Sun",
+      "image": "/img/flowers/Here Comes the Sun.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 23,
+      "name": "Cerulean Coral",
+      "image": "/img/flowers/Cerulean Coral.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 24,
+      "name": "Savory Succulent",
+      "image": "/img/flowers/Savory Succulent.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 25,
+      "name": "Sea Anemone",
+      "image": "/img/flowers/Sea Anemone.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 26,
+      "name": "Supernova",
+      "image": "/img/flowers/Supernova.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 27,
+      "name": "Surf's Up Baby",
+      "image": "/img/flowers/Surf's Up Baby.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 28,
+      "name": "Tangerine Sherbert",
+      "image": "/img/flowers/Tangerine Sherbert.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },    {
+      "id": 29,
+      "name": "Vesuvius Rising",
+      "image": "/img/flowers/Vesuvius Rising.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 30,
+      "name": "Zephyr Libre",
+      "image": "/img/flowers/Zephyr Libre.JPG",
+      "snippet": "This is part of Karen's 30 flowers piece.",
+      "category": ["Flowers"]
+    },
+    {
+      "id": 31,
+      "name": "Nest",
+      "image": "/img/Garden art/Garden art.JPG",
+      "snippet": "12x12 plaque",
+      "category": ["Garden-Art"]
+    },
+    {
+      "id": 32,
+      "name": "Sunflower",
+      "image": "/img/Garden art/Sunflower.JPG",
+      "snippet": "12x12 plaque",
+      "category": ["Garden-Art"]
+    },
+    {
+      "id": 33,
+      "name": "Gekko",
+      "image": "/img/Garden art/Gekko.JPG",
+      "snippet": "14x5 plaque",
+      "category": ["Garden-Art"]
+    },
+    {
+      "id": 34,
+      "name": "Ribbons",
+      "image": "/img/Garden art/Table insert boil.JPG",
+      "snippet": "12x12 table tile",
+      "category": ["Garden-Art"]
+    },
+    {
+      "id": 35,
+      "name": "Revelation",
+      "image": "/img/Garden art/McGinnis_Revelation.jpg",
+      "snippet": "12x5 bowl",
+      "category": ["Garden-Art"]
+    },
+    {
+      "id": 36,
+      "name": "Forrest",
+      "image": "/img/Garden art/Crocker bowl.JPG",
+      "snippet": "10x10x3 bowl",
+      "category": ["Garden-Art"]
+    },
+    {
+      "id": 37,
+      "name": "Mosaic",
+      "image": "/img/Garden art/Mosaic 15 inch bowl.JPG",
+      "snippet": "15\" diameter bowl",
+      "category": ["Garden-Art"]
+    },
+    {
+      "id": 38,
+      "name": "Lava",
+      "image": "/img/Bowls/Glabas_Karen_Lava.JPG",
+      "snippet": "18\"x6\"x1.5\" bowl",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 39,
+      "name": "Big Bang",
+      "image": "/img/Bowls/080A3396.JPG",
+      "snippet": "18\"x6\"x1.5\" bowl",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 40,
+      "name": "Red Hawk",
+      "image": "/img/Bowls/080A3365.JPG",
+      "snippet": "18\"x6\"x3\" bowl",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 41,
+      "name": "Bear",
+      "image": "/img/Bowls/080A3372.JPG",
+      "snippet": "18\"x6\"x3\" black sushi bowl",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 42,
+      "name": "Carnival",
+      "image": "/img/Bowls/080A3378.JPG",
+      "snippet": "12\"x5\"x1\" bowl",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 43,
+      "name": "Gamer",
+      "image": "/img/Bowls/gamer top.JPG",
+      "snippet": "10\"x10\"x3\" bowl",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 44,
+      "name": "On Target",
+      "image": "/img/Bowls/On Target - side.jpg",
+      "snippet": "14\" diameter bowl",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 45,
+      "name": "Sun 1",
+      "image": "/img/Sun Catchers/Sun 1.jpg",
+      "snippet": "Dimensions: 4\" x 9\"\nPrice: $80",
+      "category": ["Sun Catchers"]
+    },
+    {
+      "id": 46,
+      "name": "Sun 2",
+      "image": "/img/Sun Catchers/Sun 2.jpg",
+      "snippet": "Dimensions: 10\" x 5\"\nPrice: $80",
+      "category": ["Sun Catchers"]
     }
+    ,
+    {
+      "id": 47,
+      "name": "Sun 3",
+      "image": "/img/Sun Catchers/Sun 3.jpg",
+      "snippet": "Dimensions: 12\" x 3.5\"\nPrice: $50",
+      "category": ["Sun Catchers"]
+    },
+    {
+      "id": 48,
+      "name": "Sun 4",
+      "image": "/img/Sun Catchers/Sun 4.jpg",
+      "snippet": "Dimensions: 4.5\" x 7\"\nPrice: $55",
+      "category": ["Sun Catchers"]
+    },
+    {
+      "id": 49,
+      "name": "Sun 5",
+      "image": "/img/Sun Catchers/Sun 5.jpg",
+      "snippet": "Dimensions: 7.5\" x 4.5\"\nPrice: $55",
+      "category": ["Sun Catchers"]
+    },
+    {
+      "id": 50,
+      "name": "Sun 6",
+      "image": "/img/Sun Catchers/Sun 6.jpg",
+      "snippet": "Dimensions: 4\" x 9\"\nPrice: $70",
+      "category": ["Sun Catchers"]
+    },
+    {
+      "id": 51,
+      "name": "Sun 7",
+      "image": "/img/Sun Catchers/Sun 7.jpg",
+      "snippet": "Dimensions: 7\" x 2.5\"\nPrice: $40",
+      "category": ["Sun Catchers"]
+    },
+    {
+      "id": 52,
+      "name": "Sun 8",
+      "image": "/img/Sun Catchers/Sun 8.jpg",
+      "snippet": "Dimensions: 8\" x 2\"\nPrice: $40",
+      "category": ["Sun Catchers"]
+    },
+    {
+      "id": 53,
+      "name": "Sun 9",
+      "image": "/img/Sun Catchers/Sun 9.jpg",
+      "snippet": "Dimensions: 7.5\" x 2.5\"\nPrice: $40",
+      "category": ["Sun Catchers"]
+    },
+    {
+      "id": 54,
+      "name": "Confetti Dreams",
+      "image": "/img/Bowls/Rec 1.jpg",
+      "snippet": "Dimensions: 11\" x 4.5\"\nPrice: $70",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 55,
+      "name": "Summer Blossoms",
+      "image": "/img/Bowls/Rec 2.jpg",
+      "snippet": "Dimensions: 11\" x 4.5\"\nPrice: $70",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 56,
+      "name": "Christmas Bowl",
+      "image": "/img/Bowls/Rec 3.jpg",
+      "snippet": "Dimensions: 11\" x 4.5\"\nPrice: $40",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 57,
+      "name": "Glass Bowl",
+      "image": "/img/Bowls/Rec 4.jpg",
+      "snippet": "Dimensions: 11\" x 4.5\"\nPrice: $40",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 58,
+      "name": "Jelly Fish",
+      "image": "/img/Bowls/Rec 5.jpg",
+      "snippet": "Dimensions: 11\" x 4.5\"\nPrice: $50",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 59,
+      "name": "Tray",
+      "image": "/img/Bowls/Rec 6.jpg",
+      "snippet": "Dimensions: 11\" x 4.5\"\nPrice: $50",
+      "category": ["Bowls"]
+    },
+    {
+      "id": 60,
+      "name": "Bloom",
+      "image": "/img/Glass Sculptures/bloom.jpg",
+      "snippet": "Dimensions: 13\" x 13\" with 16\" high stand\nPrice: $350",
+      "category": ["Glass Sculptures"]
+    },
+    {
+      "id": 61,
+      "name": "Desert Flower",
+      "image": "/img/Glass Sculptures/desert.jpg",
+      "snippet": "Dimensions: 9\" x 10\"\nPrice: $150",
+      "category": ["Glass Sculptures"]
+    },
+    {
+      "id": 62,
+      "name": "Eye",
+      "image": "/img/Glass Sculptures/eye.jpg",
+      "snippet": "Dimensions: 10\" Diameter\nPrice: $50",
+      "category": ["Glass Sculptures"]
+    },
+    {
+      "id": 63,
+      "name": "Blue Flower",
+      "image": "/img/Glass Sculptures/flower 1.jpg",
+      "snippet": "Dimensions: 12\" x 12\"\nPrice: $125",
+      "category": ["Glass Sculptures"]
+    },
+    {
+      "id": 64,
+      "name": "Pop Flower",
+      "image": "/img/Glass Sculptures/flower 2.jpg",
+      "snippet": "Dimensions: 11\" x 4.5\"\nPrice: $150",
+      "category": ["Glass Sculptures"]
+    },
+    {
+      "id": 65,
+      "name": "Horizon",
+      "image": "/img/Glass Sculptures/Plaque 1.jpg",
+      "snippet": "Dimensions: 6\" x 11\"\nPrice: $100",
+      "category": ["Glass Sculptures"]
+    },
+    {
+      "id": 66,
+      "name": "Plaque 2",
+      "image": "/img/Glass Sculptures/Plaque 2.jpg",
+      "snippet": "Dimensions: 5\" x 10\"\nPrice: $50",
+      "category": ["Glass Sculptures"]
+    },
+    {
+      "id": 67,
+      "name": "Vibrant Rhythm",
+      "image": "/img/Glass Sculptures/Plaque 3.jpg",
+      "snippet": "Dimensions: 6\" x 9\"\nPrice: $100",
+      "category": ["Glass Sculptures"]
+    },
+    {
+      "id": 68,
+      "name": "Aquarium",
+      "image": "/img/Glass Sculptures/Plaque 5.jpg",
+      "snippet": "Dimensions: 6\" x 9\"\nPrice: $125",
+      "category": ["Glass Sculptures"]
+    },
+    {
+      "id": 69,
+      "name": "Sunset",
+      "image": "/img/Glass Sculptures/Plaque 6.jpg",
+      "snippet": "Dimensions: 6\" x 8\"\nPrice: $125",
+      "category": ["Glass Sculptures"]
+    },
+    {
+      "id": 70,
+      "name": "Stringer",
+      "image": "/img/Glass Sculptures/stringer plaque.jpg",
+      "snippet": "",
+      "category": ["Glass Sculptures"]
+    }
+    
   ]
   
