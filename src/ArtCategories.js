@@ -7,7 +7,7 @@ function ArtCategories() {
 
   // Categories with associated images
   const categories = [
-    { name: 'Bowls', image: "/img/Bowls/080A3372.jpg", snipper: 'Glass Bowls' },
+    { name: 'Bowls', image: "/img/Bowls/080A3372.JPG", snipper: 'Glass Bowls' },
     { name: 'Garden-Art', image: '/img/Garden art/Crocker bowl.jpg', snipper: 'Stunning garden art pieces' },
     { name: 'Flowers', image: '/img/All of them .jpg', snipper: 'Delicate flower art' },
     { name: 'Sun Catchers', image: '/img/Sun Catchers/Sun 1.jpg', snipper: 'Each sun catcher comes with a silver chain for hanging inside or outside' },
